@@ -1,5 +1,7 @@
 <img src="logo.jpg" alt="Paris" class="center">
+
 # Awesome-ComposableAI
+[![Awesome ComposableAI](https://img.shields.io/badge/Awesome-ComposableAI-blue)](https://github.com/topics/awesome)
 
 A curated list of Composable AI methods: Building AI system by composing modules.
 
