@@ -5,15 +5,21 @@
 
 A curated list of Composable AI methods: Building AI system by composing modules.
 
-It includes *Composable-Model*, *Composable-Task*, *Composable-Gen*, and *Composable-X*, etc.
+It includes *Composable-Model*, *Composable-Task*, *Composable-Gen*, *Composable-Agent*, and *Composable-X*, etc.
 
 **Contributions are welcome!**
 
 **Let's build AI as Lego!**
 
+### Table of Content
+[TOC]
+
 ### Definition
 
-**Composable AI** is an approach to artificial intelligence that emphasizes the development of modular, flexible, and reusable AI components. These components can be combined and reconfigured in different ways to create customized AI systems tailored to specific tasks, domains, or applications.
+A paramount issue in AI is the **combinational challenge**: It is infeasible to enumerate all possibilities for an intelligent system.
+
+**Composable AI** offers a solution to this challenge by emphasizing the creation of modular, flexible, and reusable AI components. These components can be assembled and reconfigured in various ways, enabling the construction of customized AI systems that are specifically tailored to individual tasks, domains, or applications.
+
 
 ## Composable-Task
 
@@ -28,15 +34,21 @@ It includes *Composable-Model*, *Composable-Task*, *Composable-Gen*, and *Compos
 | [**Visual Programming: Compositional visual reasoning without training**](https://arxiv.org/abs/2211.11559)<br> *Tanmay Gupta, Aniruddha Kembhavi* <br>CVPR'23<br> [**Visprog (Project)**](https://github.com/allenai/visprog)| ![intro](https://github.com/allenai/visprog/raw/main/assets/teaser2.png) | [[Github](https://github.com/allenai/visprog)] <br> [[Page](https://prior.allenai.org/projects/visprog)]|
 | [**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128)<br> *Dídac Surís, Sachit Menon, Carl Vondrick* <br>CVPR'23<br> [**Viper (Project)**](https://github.com/cvlab-columbia/viper)| ![intro](https://github.com/cvlab-columbia/viper/raw/main/teaser.gif) | [[Github](https://github.com/cvlab-columbia/viper)] <br> [[Page](https://viper.cs.columbia.edu)]|
 
-
+### Project Only
+| Title & Authors | Intro | Useful Links |
+|:----|  :----: | :---:|
+|  [**Grounded-SAM (Project)**](https://github.com/IDEA-Research/Grounded-Segment-Anything) <br>[**Grounding DINO + Segment-Anything + X**] <br> *Shilong Liu and Zhaoyang Zeng and Tianhe Ren and Feng Li and Hao Zhang and Jie Yang and Chunyuan Li and Jianwei Yang and Hang Su and Jun Zhu and Lei Zhang*  | ![intro](https://github.com/IDEA-Research/Grounded-Segment-Anything/raw/main/assets/grounded_sam_demo3_demo4.png) | [[Github](https://github.com/IDEA-Research/Grounded-Segment-Anything)] <br> [[Demo](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-grounding-dino.ipynb)] |
+| [**Semantic-Segment-Anything (Project)**](https://github.com/fudan-zvg/Semantic-Segment-Anything)<br> [**Close-set Segmenters + Open-vocabulary Models**]<br> *Jiaqi Chen, Zeyu Yang, Li Zhang*   | ![intro](https://github.com/fudan-zvg/Semantic-Segment-Anything/raw/main/figures/sa_225172_class_name.png) | [[Github](https://github.com/fudan-zvg/Semantic-Segment-Anything)] |
+| [**Segment Anything and Name It (Project)**](https://github.com/Cheems-Seminar/segment-anything-and-name-it)<br>[**Visual ChatGPT + GLIP + Segment-Anything**]<br> *Peize Sun* and *Shoufa Chen* | ![intro](https://github.com/Cheems-Seminar/segment-anything-and-name-it/raw/main/assets/teaser.png) | [[Github](https://github.com/Cheems-Seminar/segment-anything-and-name-it)]
 <!-- ### Papers -->
 ## Composable-Model
 ### Projects & Papers
 
 | Title & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
-| [**AdapterHub: A Framework for Adapting Transformers**]() <br> *Álvaro Barbero Jiménez* <br> EMNLP'20 <br><br> [[**adapter-transformers (Project)**](https://github.com/adapter-hub/adapter-transformers)] |  ![intro](https://adapterhub.ml/static/adapter-bert.png) | [[Github](https://github.com/adapter-hub/adapter-transformers)] <br> [[Page](https://adapterhub.ml)] |
+| [**AdapterHub: A Framework for Adapting Transformers**]() <br> *Álvaro Barbero Jiménez* <br> EMNLP'20 <br><br> [[**adapter-transformers (Project)**](https://github.com/adapter-hub/adapter-transformers)] | <img src="https://adapterhub.ml/static/adapter-bert.png" alt="Girl in a jacket" height="300">  | [[Github](https://github.com/adapter-hub/adapter-transformers)] <br> [[Page](https://adapterhub.ml)] |
 | [**Deep Model Reassembly**](https://arxiv.org/abs/2210.17409) <br> *Xingyi Yang, Daquan Zhou, Songhua Liu, Jingwen Ye, Xinchao Wang* <br> NeurIPS'22 <br><br> [[**DeRy (Project)**](https://github.com/Adamdad/DeRy)] <br>  | ![intro](https://github.com/Adamdad/DeRy/raw/main/assets/pipeline.png) | [[Github](https://github.com/Adamdad/DeRy)] <br> [[Page](https://adamdad.github.io/dery/)] |
+| [**Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**](https://arxiv.org/abs/1701.06538) <br> *Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean* <br> ICLR'17 <br><br> [[**mixture-of-experts (Project)**](https://github.com/davidmrau/mixture-of-experts)] <br>  | ![intro](https://camo.githubusercontent.com/cfb90532a6c580f08068d554e529a5070286d9c62d5bc055295ff5cbb19517c6/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313030302f312a4161427a67704a637953654f315544764f515f436e512e706e67) | [[Github](https://github.com/davidmrau/mixture-of-experts)] |
 ## Composable-Gen
 ### Projects & Papers
 
@@ -48,6 +60,14 @@ It includes *Composable-Model*, *Composable-Task*, *Composable-Gen*, and *Compos
 | [**Reduce, Reuse, Recycle: Compositional Generation with Energy-Based Diffusion Models and MCMC**](https://arxiv.org/abs/2212.05032) <br> *Yilun Du, Conor Durkan, Robin Strudel, Joshua B. Tenenbaum, Sander Dieleman, Rob Fergus, Jascha Sohl-Dickstein, Arnaud Doucet, Will Grathwohl* <br> Preprint'23 <br><br> [[**reduce_reuse_recycle (Project)**](https://github.com/yilundu/reduce_reuse_recycle)] |  ![intro](https://user-images.githubusercontent.com/5572232/220694796-cc599abc-086f-4030-857a-59c87468fa79.gif) | [[Github](https://github.com/yilundu/reduce_reuse_recycle)] <br> [[Page](https://energy-based-model.github.io/reduce-reuse-recycle/)] |
 | [**Learning to Compose Visual Relations**](https://arxiv.org/abs/2111.09297) <br> *Nan Liu, Shuang Li, Yilun Du, Joshua B. Tenenbaum, Antonio Torralba* <br> NeurIPS'21 <br><br> [[**compose-visual-relations (Project)**](https://github.com/nanlliu/compose-visual-relations)] | ![intro](https://im5.ezgif.com/tmp/ezgif-5-80b25bed30.gif) | [[Github](https://github.com/nanlliu/compose-visual-relations)] <br> [[Page](https://composevisualrelations.github.io/)] |
 
+## Composable-Agent
+### Paper Only
+- MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies 
+  *Xue Bin Peng, Michael Chang, Grace Zhang, Pieter Abbeel, Sergey Levine*
+  NeurIPS'19 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/95192c98732387165bf8e396c0f2dad2-Paper.pdf)]
+- Composable Planning with Attributes
+  *Amy Zhang, Sainbayar Sukhbaatar, Adam Lerer, Arthur Szlam, Rob Fergus*
+  ICML'18 [[Paper](http://proceedings.mlr.press/v80/zhang18k/zhang18k.pdf)]
 ## Composable-X
 
 TO BE UPDATE
