@@ -9,10 +9,26 @@ It includes *Composable-Model*, *Composable-Task*, *Composable-Gen*, *Composable
 
 **Contributions are welcome!**
 
-**Let's build AI as Lego!**
+
+
+<p style="text-align: center;">𓏠𓏠𓏠𓏠𓏠𓏠𓏠𓏠𓏠
+<b>Let's build AI as Lego!<b>
+𓏠𓏠𓏠𓏠𓏠𓏠𓏠𓏠𓏠</p>
 
 ### Table of Content
-[TOC]
+- [Awesome-ComposableAI](#awesome-composableai)
+    - [Table of Content](#table-of-content)
+    - [Definition](#definition)
+  - [Composable-Task](#composable-task)
+    - [Projects \& Papers](#projects--papers)
+    - [Project Only](#project-only)
+  - [Composable-Model](#composable-model)
+    - [Projects \& Papers](#projects--papers-1)
+  - [Composable-Gen](#composable-gen)
+    - [Projects \& Papers](#projects--papers-2)
+  - [Composable-Agent](#composable-agent)
+    - [Paper Only](#paper-only)
+  - [Composable-X](#composable-x)
 
 ### Definition
 
