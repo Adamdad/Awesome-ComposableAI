@@ -1,3 +1,4 @@
+<img src="logo.jpg" alt="Paris" class="center">
 # Awesome-ComposableAI
 
 A curated list of Composable AI methods: Building AI system by composing modules.
