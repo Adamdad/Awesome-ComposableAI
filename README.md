@@ -1,7 +1,9 @@
 # Awesome-ComposableAI
 
 A curated list of Composable AI methods: Building AI system by composing modules.
+
 It includes *Composable-Model*, *Composable-Task*, *Composable-Gen*, and *Composable-X*
+
 **Contributions are welcome!**
 
 ### Definition
