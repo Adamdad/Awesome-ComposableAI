@@ -9,6 +9,8 @@ It includes *Composable-Model*, *Composable-Task*, *Composable-Gen*, and *Compos
 
 **Contributions are welcome!**
 
+**Let's build AI as Lego!**
+
 ### Definition
 
 **Composable AI** is an approach to artificial intelligence that emphasizes the development of modular, flexible, and reusable AI components. These components can be combined and reconfigured in different ways to create customized AI systems tailored to specific tasks, domains, or applications.
