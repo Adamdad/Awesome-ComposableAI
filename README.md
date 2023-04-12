@@ -1,7 +1,13 @@
 <img src="logo.jpg" alt="Paris" class="center">
-
-# Awesome-ComposableAI
+<h1 align="center">
+<a href="https://emoji.gg/emoji/9849-legocool"><img src="https://cdn3.emoji.gg/emojis/9849-legocool.png" width="64px" height="64px" alt="LEGOcool"></a>
+Awesome-ComposableAI
+<a href="https://emoji.gg/emoji/9849-legocool"><img src="https://cdn3.emoji.gg/emojis/9849-legocool.png" width="64px" height="64px" alt="LEGOcool"></a>
+   </h1>
+   
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Awesome ComposableAI](https://img.shields.io/badge/Awesome-ComposableAI-blue)](https://github.com/topics/awesome)
+
 
 A curated list of Composable AI methods: Building AI system by composing modules.
 
@@ -9,11 +15,11 @@ It includes *Composable-Model*, *Composable-Task*, *Composable-Gen*, *Composable
 
 **Contributions are welcome!**
 
-
-
-<p style="text-align: center;">𓏠𓏠𓏠𓏠𓏠𓏠𓏠𓏠𓏠
+<h4 align="center"><a href="https://emoji.gg/emoji/7440-lego-brick"><img src="https://cdn3.emoji.gg/emojis/7440-lego-brick.png" width="32px" height="32px" alt="lego_brick"></a>
 <b>Let's build AI as Lego!<b>
-𓏠𓏠𓏠𓏠𓏠𓏠𓏠𓏠𓏠</p>
+<a href="https://emoji.gg/emoji/7440-lego-brick"><img src="https://cdn3.emoji.gg/emojis/7440-lego-brick.png" width="32px" height="32px" alt="lego_brick"></a></h4>
+
+
 
 ### Table of Content
 - [Awesome-ComposableAI](#awesome-composableai)
