@@ -28,6 +28,7 @@ It includes *Composable-Model*, *Composable-Task*, *Composable-Gen*, *Composable
     - [Projects \& Papers](#projects--papers-2)
   - [Composable-Agent](#composable-agent)
     - [Paper Only](#paper-only)
+  - [Composable-Product](#composable-product)
   - [Composable-X](#composable-x)
 
 ### Definition
@@ -84,6 +85,14 @@ A paramount issue in AI is the **combinational challenge**: It is infeasible to 
 - Composable Planning with Attributes
   *Amy Zhang, Sainbayar Sukhbaatar, Adam Lerer, Arthur Szlam, Rob Fergus*
   ICML'18 [[Paper](http://proceedings.mlr.press/v80/zhang18k/zhang18k.pdf)]
+
+## Composable-Product
+
+| Title & Authors | Intro | Useful Links |
+|:----|  :----: | :---:|
+| [**langchain (Project)**](https://github.com/hwchase17/langchain)<br> [**LLM + X**] | ![intro](assets/langchain.jpg) |[Github](https://github.com/hwchase17/langchain)|
+
+
 ## Composable-X
 
 TO BE UPDATE
