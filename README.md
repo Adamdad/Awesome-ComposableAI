@@ -22,20 +22,17 @@ It includes *Composable-Model*, *Composable-Task*, *Composable-Gen*, *Composable
 
 
 ### Table of Content
-- [Awesome-ComposableAI](#awesome-composableai)
-    - [Table of Content](#table-of-content)
-    - [Definition](#definition)
-  - [Composable-Task](#composable-task)
-    - [Projects \& Papers](#projects--papers)
-    - [Project Only](#project-only)
-  - [Composable-Model](#composable-model)
-    - [Projects \& Papers](#projects--papers-1)
-  - [Composable-Gen](#composable-gen)
-    - [Projects \& Papers](#projects--papers-2)
-  - [Composable-Agent](#composable-agent)
-    - [Paper Only](#paper-only)
-  - [Composable-Product](#composable-product)
-  - [Composable-X](#composable-x)
+- [Composable-Task](#composable-task)
+  - [Projects \& Papers](#projects--papers)
+  - [Project Only](#project-only)
+- [Composable-Model](#composable-model)
+  - [Projects \& Papers](#projects--papers-1)
+- [Composable-Gen](#composable-gen)
+  - [Projects \& Papers](#projects--papers-2)
+- [Composable-Agent](#composable-agent)
+  - [Paper Only](#paper-only)
+- [Composable-Product](#composable-product)
+- [Composable-X](#composable-x)
 
 ### Definition
 
@@ -62,7 +59,8 @@ A paramount issue in AI is the **combinational challenge**: It is infeasible to 
 |:----|  :----: | :---:|
 |  [**Grounded-SAM (Project)**](https://github.com/IDEA-Research/Grounded-Segment-Anything) <br>[**Grounding DINO + Segment-Anything + X**] <br> *Shilong Liu and Zhaoyang Zeng and Tianhe Ren and Feng Li and Hao Zhang and Jie Yang and Chunyuan Li and Jianwei Yang and Hang Su and Jun Zhu and Lei Zhang*  | ![intro](https://github.com/IDEA-Research/Grounded-Segment-Anything/raw/main/assets/grounded_sam_demo3_demo4.png) | [[Github](https://github.com/IDEA-Research/Grounded-Segment-Anything)] <br> [[Demo](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-grounding-dino.ipynb)] |
 | [**Semantic-Segment-Anything (Project)**](https://github.com/fudan-zvg/Semantic-Segment-Anything)<br> [**Close-set Segmenters + Open-vocabulary Models**]<br> *Jiaqi Chen, Zeyu Yang, Li Zhang*   | ![intro](https://github.com/fudan-zvg/Semantic-Segment-Anything/raw/main/figures/sa_225172_class_name.png) | [[Github](https://github.com/fudan-zvg/Semantic-Segment-Anything)] |
-| [**Segment Anything and Name It (Project)**](https://github.com/Cheems-Seminar/segment-anything-and-name-it)<br>[**Visual ChatGPT + GLIP + Segment-Anything**]<br> *Peize Sun* and *Shoufa Chen* | ![intro](https://github.com/Cheems-Seminar/segment-anything-and-name-it/raw/main/assets/teaser.png) | [[Github](https://github.com/Cheems-Seminar/segment-anything-and-name-it)]
+| [**Segment Anything and Name It (Project)**](https://github.com/Cheems-Seminar/segment-anything-and-name-it)<br>[**Visual ChatGPT + GLIP + Segment-Anything**]<br> *Peize Sun* and *Shoufa Chen* | ![intro](https://github.com/Cheems-Seminar/segment-anything-and-name-it/raw/main/assets/teaser.png) | [[Github](https://github.com/Cheems-Seminar/segment-anything-and-name-it)]|
+| [![Star](https://img.shields.io/github/stars/sail-sg/EditAnything.svg?style=social&label=Star)](https://github.com/sail-sg/EditAnything) <br> [**EditAnything (Project)**](https://github.com/sail-sg/EditAnything)<br> [**Segment Anything + ControlNet + BLIP2 + Stable Diffusion**] <br> *Shanghua Gao, Pan Zhou*  | ![intro](https://github.com/sail-sg/EditAnything/raw/main/images/edit_sample1.jpg) | [[Github](https://github.com/sail-sg/EditAnything)] |
 <!-- ### Papers -->
 ## Composable-Model
 ### Projects & Papers
